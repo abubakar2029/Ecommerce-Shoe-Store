@@ -1,0 +1,18 @@
+.cards-container {
+    display: flex;
+    margin: 30px 10px;
+    justify-content: space-between;
+}
+
+/* 350px 320px */
+.card-img {
+    width: 350px;
+    height: 320px;
+}
+
+.card {
+    width: 350px;
+    height: 320px;
+    margin-right: 10px;
+    background-color: #EAEEEF;
+}
